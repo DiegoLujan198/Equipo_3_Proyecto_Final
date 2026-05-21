@@ -38,7 +38,8 @@ El objetivo principal es desarrollar un sistema de detección de objetos capaz d
 El notebook ya incluye integración con Google Drive.
 
 
-Preparación del Dataset
+# Preparación del Dataset
+
 El proyecto espera un dataset que contenga:
 
 * Jugadores de fútbol
