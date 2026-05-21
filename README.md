@@ -50,3 +50,6 @@ El proyecto espera un dataset que contenga:
 Las imágenes deben estar anotadas en formato YOLO.
 
 Ejemplo de anotación YOLO:
+
+```text
+0 0.512 0.421 0.120 0.210
