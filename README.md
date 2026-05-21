@@ -16,3 +16,36 @@ El notebook implementa un pipeline completo de Machine Learning utilizando la ar
 * Visualización de resultados de detección
   
 El objetivo principal es desarrollar un sistema de detección de objetos capaz de identificar jugadores de fútbol y el balón en grabaciones deportivas aéreas.
+
+
+# Tecnologías Utilizadas
+
+* Python 3.10+
+* OpenCV
+* Ultralytics YOLOv11
+* Optuna
+* Scikit-learn
+* Google Colab
+* PyTorch
+
+
+# Ejecutar con Google Colab
+
+* Sube el notebook a Google Colab.
+* Sube el dataset a Google Drive.
+* Ejecuta las celdas en orden.
+  
+El notebook ya incluye integración con Google Drive.
+
+
+Preparación del Dataset
+El proyecto espera un dataset que contenga:
+
+* Jugadores de fútbol
+* Balón de fútbol
+* El video para extraer los frames
+* Labels e imágenes de entrenamiento
+  
+Las imágenes deben estar anotadas en formato YOLO.
+
+Ejemplo de anotación YOLO:
